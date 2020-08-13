@@ -6,7 +6,7 @@ pipeline {
   }
 agent any
   
-  tools {nodejs "node22"}
+  tools {nodejs "node6"}
  
 stages {
 
